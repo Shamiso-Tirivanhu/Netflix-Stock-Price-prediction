@@ -61,11 +61,11 @@ Run the Google colab Notebook to:
 
 The project explores historical stock trends and builds predictive models to forecast future prices. Key insights include:
 
-- Model Performance: The Decision Tree Regressor and Linear Regression models were evaluated for accuracy, with performance metrics including Mean Squared Error (MSE) and R-squared scores. Among the two, the Linear Regression model performed better, providing more reliable and stable long-term predictions, while the Decision Tree Regressor captured short-term fluctuations but tended to overfit the data.
+- Model Performance: The Decision Tree Regressor and Linear Regression models were evaluated for accuracy, with performance metrics including Mean Squared Error (MSE) and R-squared scores. Among the two, the Linear Regression model performed better, providing more reliable and stable long-term predictions, while the Decision Tree Regressor captured short-term fluctuations but tended to overfit the data as shown below.
 
 
 
-
+![Image_Alt](https://github.com/Shamiso-Tirivanhu/Netflix-Stock-Price-prediction/blob/cc4509be4fa2d67abdfb3bb6a459b77e51535466/Netflix%20Stock%20Price.png)
 
 
 
